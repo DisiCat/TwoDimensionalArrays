@@ -13,7 +13,7 @@ namespace FindTheNumberOfArrayElementsThatAreLargerThanAllTheirNeighborsAtTheSam
             {
                 for (int j = 0; j < array.GetLength(1); j++)
                 {
-                    array[i, j] = rand.Next(1, 5);
+                    array[i, j] = rand.Next(1, 10);
                     Console.Write($"[{array[i, j]}]");
                 }
                 Console.WriteLine();

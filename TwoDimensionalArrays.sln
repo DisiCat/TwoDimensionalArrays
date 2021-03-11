@@ -9,9 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindTheIndexOfTheMinimumEle
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindTheIndexOfTheMaximumElementOfAnArray", "FindTheIndexOfTheMaximumElementOfAnArray\FindTheIndexOfTheMaximumElementOfAnArray.csproj", "{E0C89DE8-E934-4587-BCCA-A11AB2F66ADD}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindTheNumberOfArrayElementsThatAreLargerThanAllTheirNeighborsAtTheSameTime", "FindTheNumberOfArrayElementsThatAreLargerThanAllTheirNeighborsAtTheSameTime\FindTheNumberOfArrayElementsThatAreLargerThanAllTheirNeighborsAtTheSameTime.csproj", "{C822CBB7-E3A8-4B9C-BCFD-0A44EA86AB3D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FlipAnArrayRelativeToItsMainDiagonal", "FlipAnArrayRelativeToItsMainDiagonal\FlipAnArrayRelativeToItsMainDiagonal.csproj", "{D5C8DEF4-C65C-4799-9AF6-E5C2B9FD793D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlipAnArrayRelativeToItsMainDiagonal", "FlipAnArrayRelativeToItsMainDiagonal\FlipAnArrayRelativeToItsMainDiagonal.csproj", "{D5C8DEF4-C65C-4799-9AF6-E5C2B9FD793D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindTheNumberOfArrayElementsThatAreLargerThanAllTheirNeighborsAtTheSameTime", "stupidName\FindTheNumberOfArrayElementsThatAreLargerThanAllTheirNeighborsAtTheSameTime.csproj", "{798ED4EB-0AE2-4685-890A-995E63A941D7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,14 +31,14 @@ Global
 		{E0C89DE8-E934-4587-BCCA-A11AB2F66ADD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E0C89DE8-E934-4587-BCCA-A11AB2F66ADD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E0C89DE8-E934-4587-BCCA-A11AB2F66ADD}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C822CBB7-E3A8-4B9C-BCFD-0A44EA86AB3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C822CBB7-E3A8-4B9C-BCFD-0A44EA86AB3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C822CBB7-E3A8-4B9C-BCFD-0A44EA86AB3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C822CBB7-E3A8-4B9C-BCFD-0A44EA86AB3D}.Release|Any CPU.Build.0 = Release|Any CPU
 		{D5C8DEF4-C65C-4799-9AF6-E5C2B9FD793D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{D5C8DEF4-C65C-4799-9AF6-E5C2B9FD793D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D5C8DEF4-C65C-4799-9AF6-E5C2B9FD793D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D5C8DEF4-C65C-4799-9AF6-E5C2B9FD793D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{798ED4EB-0AE2-4685-890A-995E63A941D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{798ED4EB-0AE2-4685-890A-995E63A941D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{798ED4EB-0AE2-4685-890A-995E63A941D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{798ED4EB-0AE2-4685-890A-995E63A941D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
